@@ -5,7 +5,8 @@
   "license": "MIT",
   "type": "module",
   "scripts": {
-    "dev": "nodemon --require dotenv/config ./app.js"
+    "dev": "nodemon --require dotenv/config ./app.js",
+    "start": "node ./app.js"
   },
   "dependencies": {
     "cors": "^2.8.5",
