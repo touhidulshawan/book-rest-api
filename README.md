@@ -1,6 +1,6 @@
 # book-rest-api
 
-```
+```json
  "dependencies": {
     "cors": "^2.8.5",
     "dayjs": "^1.10.5",
